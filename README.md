@@ -140,9 +140,6 @@ Main results of the analysis:
 
 ---
 
-
----
-
 # Requirements
 
 Python environment used for the analysis:
